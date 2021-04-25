@@ -1,1 +1,2 @@
-# simple-django-app output (first-django-app.png)
+# simple-django-app 
+![django-app result](first-django-app.png)
